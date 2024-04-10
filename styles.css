@@ -71,6 +71,14 @@ h2 {
     margin-bottom: 15px;
 }
 
+.checkboxes {
+    display: flex;
+}
+
+.checkboxes input {
+    float: left;
+}
+
 #inventory h2 {
     text-align:center;
     color: black;
